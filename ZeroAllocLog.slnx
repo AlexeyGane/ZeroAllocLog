@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="ZeroAllocLog.Core.Tests/ZeroAllocLog.Core.Tests.csproj" />
+  <Project Path="ZeroAllocLog.Core/ZeroAllocLog.Core.csproj" />
+  <Project Path="ZeroAllocLog.Service.Tests/ZeroAllocLog.Service.Tests.csproj" />
   <Project Path="ZeroAllocLog.Service/ZeroAllocLog.Service.csproj" />
 </Solution>
